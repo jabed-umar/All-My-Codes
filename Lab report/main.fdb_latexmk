@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1665429925 "c:/Users/PC/Desktop/python/Lab report/main.tex" "main.pdf" "main" 1665429926
+["pdflatex"] 1668947673 "c:/Users/PC/Desktop/python/Lab report/main.tex" "main.pdf" "main" 1668947674
   "C:/Users/PC/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1665429686 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/PC/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1665429545 10786595 5a77559dfa6664b2ccd318f15d8a010e ""
   "C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -20,9 +20,9 @@
   "C:/Users/PC/AppData/Local/Programs/MiKTeX/tex/latex/base/article.cls" 1657041432 20144 7555b7429d80bef287ebb82117811acc ""
   "C:/Users/PC/AppData/Local/Programs/MiKTeX/tex/latex/base/size10.clo" 1657041432 8448 e0391042ca0932ede1098ae14ada60ba ""
   "C:/Users/PC/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1664388628 30426 b4bd1ea7df6c51902df8edf551809fb7 ""
-  "c:/Users/PC/Desktop/python/Lab report/main.tex" 1665429924 179 2640e60d62232fdd4c4abebe33c26036 ""
-  "main.aux" 1665429926 132 becad25d16353fbd81e5644d2e8bca32 "pdflatex"
-  "main.tex" 1665429924 179 2640e60d62232fdd4c4abebe33c26036 ""
+  "c:/Users/PC/Desktop/python/Lab report/main.tex" 1668947672 185 1fbd5348a2a8858498a12b3e7401de99 ""
+  "main.aux" 1668947673 132 becad25d16353fbd81e5644d2e8bca32 "pdflatex"
+  "main.tex" 1668947672 185 1fbd5348a2a8858498a12b3e7401de99 ""
   (generated)
   "main.aux"
   "main.log"
